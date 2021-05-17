@@ -11,6 +11,10 @@
     color: white
 }
 
+.placeholder {
+    padding-left: 5px;
+}
+
 .flex-center {
     display: flex;
     justify-content: center;
@@ -18,6 +22,17 @@
 
 .color-menu {
     background-color: #3F51B5;
+}
+
+input:focus {
+    background-color: #7b88d3;
+    border: 2px solid #7b88d3;
+    padding-left: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 /* MAIN */
