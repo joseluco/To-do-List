@@ -21,7 +21,7 @@ btnAgregar.addEventListener("click", () => {
 })
 
 lnkBorrarLista.addEventListener("click", () => {
-   
+
     //ul.remove("li")
 
 })
